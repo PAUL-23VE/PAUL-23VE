@@ -11,7 +11,9 @@
 💬 No dudes en contactarme para realizar trabajos o proyectos de programación.  
 ✉️ Puedes escribirme al correo: paulvelastegui2016@gmail.com. Trataré de responderte lo antes posible.  
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<p align="center">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
+</p>
 
 ---
 
