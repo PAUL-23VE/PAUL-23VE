@@ -51,12 +51,6 @@
 
 ---
 
-### 🏆 Trofeos de GitHub
-
-![Trofeos](https://github-profile-trophy.vercel.app/?username=PAUL-23VE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=PAUL-23VE&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
@@ -67,13 +61,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contacto-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulvelastegui2016@gmail.com)  
 [![Facebook](https://img.shields.io/badge/Facebook-Perfil-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/SrhqBRczNkvDVtLj/?mibextid=LQQJ4d)  
 [![Instagram](https://img.shields.io/badge/Instagram-Perfil-orange?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-
----
-
-### 🐍 Así se mueven los commits...
-
-<div align="center">
-  <a href="https://github.com/PAUL-23VE">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-  </a>
-</div>
