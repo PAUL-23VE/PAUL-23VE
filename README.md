@@ -1,11 +1,11 @@
-<!-- Encabezado: estadio de noche -->
+<!-- Encabezado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B131E,55:065F46,100:10B981&text=Paul%20Velastegui&fontColor=F8FAFC&fontSize=58&fontAlignY=36&desc=%E2%9A%BD%20Desarrollador%20Full%20Stack%20%C2%B7%20Ingenier%C3%ADa%20de%20Software&descSize=18&descAlignY=58&animation=fadeIn" alt="Paul Velastegui · Desarrollador Full Stack" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B131E,55:065F46,100:10B981&text=Paul%20Velastegui&fontColor=F8FAFC&fontSize=58&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Ingenier%C3%ADa%20de%20Software&descSize=18&descAlignY=58&animation=fadeIn" alt="Paul Velastegui · Desarrollador Full Stack" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://paul-23ve.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=640&lines=%E2%9A%BD+Juego+en+equipo%2C+dentro+y+fuera+de+la+cancha;Interfaces+modernas+con+React+y+Angular;APIs+REST+con+Node.js%2C+NestJS%2C+.NET+y+Spring+Boot;Sistemas+completos%3A+del+frontend+a+la+base+de+datos" alt="Juego en equipo · Interfaces modernas · APIs REST · Sistemas completos" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=640&lines=Interfaces+modernas+con+React+y+Angular;APIs+REST+con+Node.js%2C+NestJS%2C+.NET+y+Spring+Boot;Sistemas+completos%3A+del+frontend+a+la+base+de+datos" alt="Interfaces modernas · APIs REST · Sistemas completos" />
   </a>
 </p>
 
@@ -19,28 +19,28 @@
 <!-- Vista del portafolio -->
 <p align="center">
   <a href="https://paul-23ve.github.io">
-    <img src="assets/portafolio-intro.jpg" alt="Intro 3D del portafolio: un futbolista domina el balón en un estadio de noche" width="88%" />
+    <img src="assets/portafolio-inicio.jpg" alt="Vista de mi portafolio web" width="88%" />
   </a>
   <br />
-  <sub>⚽ Mi portafolio: un estadio 3D con intro estilo videojuego · <a href="https://paul-23ve.github.io">entra a la cancha</a></sub>
+  <sub>Portafolio web desarrollado con Next.js, React y three.js · <a href="https://paul-23ve.github.io">paul-23ve.github.io</a></sub>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí · *el jugador*
+## 👋 Sobre mí
 
 Soy **Paul Velastegui**, desarrollador full stack de **Ambato, Ecuador**, y estudiante de **Ingeniería de Software** en la **Universidad Técnica de Ambato**. Construyo sistemas completos: interfaces cuidadas, APIs REST que las sostienen y bases de datos bien diseñadas.
 
 > 🎯 **Objetivo profesional:** crecer como desarrollador full stack aportando a equipos que construyen productos web reales: interfaces cuidadas con React y APIs sólidas con Node.js y NestJS, con código limpio, buenas prácticas y entregas que generen valor para el negocio.
 
-- 💼 Hoy juego como **desarrollador front-end y back-end en Euroman Ecuador**.
+- 💼 Actualmente trabajo como **desarrollador front-end y back-end en Euroman Ecuador**.
 - 🌱 Hice mis **prácticas preprofesionales en la Cooperativa Mushuc Runa Ltda.**: un sistema de gestión ganadera completo.
-- 🤝 Me gusta el juego en equipo: ramas, revisiones de código y entregas por partes que se integran sin sorpresas.
-- ⚽ Fuera del código juego fútbol, y me llevo lo mismo a cada proyecto: constancia y ganas de mejorar en cada partido.
+- 🤝 Trabajo en equipo con buenas prácticas: ramas, revisiones de código y entregas por partes que se integran sin sorpresas.
+- 📈 Busco aprender constantemente y mejorar en cada proyecto.
 
-## 🏟️ Trayectoria · *los clubes*
+## 💼 Experiencia
 
-| Posición | Club | Temporada |
+| Cargo | Empresa | Período |
 | :-- | :-- | :-- |
 | **Desarrollador Front-end y Back-end** | Euroman Ecuador | Enero 2026 – actualidad |
 | **Prácticas preprofesionales · Full Stack** | Cooperativa Mushuc Runa Ltda. | 2026 |
@@ -48,7 +48,7 @@ Soy **Paul Velastegui**, desarrollador full stack de **Ambato, Ecuador**, y estu
 **Euroman Ecuador:** sistema de proformas con React y Node.js (frontend y backend), APIs REST para clientes y productos, y optimización de consultas en bases de datos relacionales.<br />
 **Mushuc Runa:** sistema de gestión ganadera con Angular, Node.js, Express, Prisma y PostgreSQL, con notificaciones en tiempo real y reportes en PDF y Excel.
 
-## ⚽ Proyectos destacados · *los goles*
+## 🚀 Proyectos destacados
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ Soy **Paul Velastegui**, desarrollador full stack de **Ambato, Ecuador**, y estu
   <a href="https://paul-23ve.github.io/#projects"><b>→ Ver todos los proyectos con capturas en mi portafolio</b></a>
 </p>
 
-## 🛠️ Tecnologías · *la táctica*
+## 🛠️ Tecnologías
 
 <table>
   <tr>
@@ -132,7 +132,7 @@ Soy **Paul Velastegui**, desarrollador full stack de **Ambato, Ecuador**, y estu
   </tr>
 </table>
 
-## 🏆 Certificaciones · *los trofeos*
+## 📜 Certificaciones
 
 | Certificado | Emisor | Fecha |
 | :-- | :-- | :-- |
@@ -144,11 +144,11 @@ Soy **Paul Velastegui**, desarrollador full stack de **Ambato, Ecuador**, y estu
 
 <sub>Puedes ver cada certificado en <a href="https://paul-23ve.github.io/#certificates">mi portafolio</a>.</sub>
 
-## 🎽 Fuera de la cancha · *hobbies*
+## 🎯 Intereses
 
-⚽ Fútbol &nbsp;·&nbsp; 🎮 Videojuegos y su desarrollo &nbsp;·&nbsp; 🚀 Aprender tecnologías nuevas &nbsp;·&nbsp; 🤝 Trabajo en equipo
+Fútbol &nbsp;·&nbsp; Videojuegos y su desarrollo &nbsp;·&nbsp; Aprender tecnologías nuevas &nbsp;·&nbsp; Trabajo en equipo
 
-## 📊 Estadísticas · *el marcador*
+## 📊 Estadísticas
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PAUL-23VE&theme=github_dark" alt="Estadísticas de GitHub" />
@@ -158,7 +158,7 @@ Soy **Paul Velastegui**, desarrollador full stack de **Ambato, Ecuador**, y estu
   <img src="https://streak-stats.demolab.com?user=PAUL-23VE&hide_border=true&background=0B131E&ring=10B981&fire=F59E0B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=34D399&sideLabels=34D399&dates=94A3B8&stroke=065F46&locale=es" alt="Racha de contribuciones" />
 </p>
 
-## 📫 Hablemos · *convocatoria abierta*
+## 📫 Contacto
 
 ¿Tienes un proyecto, una vacante o una idea? Escríbeme desde el **[formulario de contacto de mi portafolio](https://paul-23ve.github.io/#contact)** o a **[paulvelastegui2016@gmail.com](mailto:paulvelastegui2016@gmail.com)**. Respondo lo antes posible.
 
